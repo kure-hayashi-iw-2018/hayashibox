@@ -7,7 +7,7 @@ public class SampleTextToSpeech : MonoBehaviour
 {
 
     TextToSpeech m_TextToSpeech = new TextToSpeech();
-    string m_TestString = "おはようございます。漢字も読めます。";
+    string m_TestString = "おはようございます。私の名前はユニティちゃんです。漢字も読めます。";
 
     // Use this for initialization
     void Start()
